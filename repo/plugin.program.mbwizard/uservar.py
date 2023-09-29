@@ -1,10 +1,10 @@
 import xbmcaddon
 
 '''#####-----Build File-----#####'''
-buildfile = 'https://textbin.net/qn6t41z3jd'
+buildfile = 'https://nzmodbox.github.io/nzmodbox.com/builds.xml'
 
 '''#####-----Notifications File-----#####'''
-notify_url  = ''
+notify_url  = 'https://nzmodbox.github.io/nzmodbox.com/notify.txt'
 
 '''#####-----Excludes-----#####'''
-excludes  = ['plugin.video.mbwizard']
+excludes  = ['plugin.Program.mbwizard']
