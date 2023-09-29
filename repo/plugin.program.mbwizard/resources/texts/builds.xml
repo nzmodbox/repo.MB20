@@ -1,12 +1,12 @@
 <builds>
 
-  <build>
-	<name></name>
-	<version></version>
-	<url></url>
-	<icon></icon>
-	<fanart></fanart>
-	<description></description>
+   <build>
+	<name>Modbox 20 Build</name>
+	<version>1.0.0</version>
+	<url>https://www.dropbox.com/s/vp3watqhiwyeun3/MODBOX.zip?dl=0/</url>
+	<icon>https://www.dropbox.com/s/s4o92b3570flehh/icon.png</icon>
+	<fanart>https://www.dropbox.com/s/quguu4yi745qvrz/fanart.jpg</fanart>
+	<description>Modbox 20 Build</description>
   </build>
   
 </builds>

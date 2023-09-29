@@ -17,7 +17,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="plugin.program.mbwizard" name="Modbox Wizard" version="3.0.3" provider-name="NZmodbox,Slam, Sarge, Funsterbe, BYB">
+</addon><addon id="plugin.program.mbwizard" name="MB20 Wizard" version="3.0.3" provider-name="NZmodbox, Slam, Sarge, Funsterbe, BYB">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.requests" optional="true" />
@@ -27,7 +27,7 @@
 	</extension>
 	<extension point="xbmc.service" library="service.py" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Modbox private wizard. Has some code from Aftermath Wizard by Surfacingx. Skin Switch by OpenELEQ. Base code by BYB. Credits to them and all others who contributed. Please report any bugs to @slamious on Telegram/Twitter.</summary>
+		<summary lang="en_GB">Modbox Wizard  Has some code from Aftermath Wizard by Surfacingx. Skin Switch by OpenELEQ. Base code by BYB. Credits to them and all others who contributed. Please report any bugs to @slamious on Telegram/Twitter.</summary>
 		<description lang="en_GB">Kodi Wizard</description>
 		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
 		<language>en</language>
