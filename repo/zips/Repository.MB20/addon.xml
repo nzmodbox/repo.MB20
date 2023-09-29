@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="Repository.MB20" name="MB20" version="1.0.0" provider-name="nzMB20">
+    <extension point="xbmc.addon.repository" name="MB20 Repo">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/nzmodbox/repo.MB20/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/nzmodbox/repo.MB20/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/nzmodbox/repo.MB20/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>MB20</summary>
+        <description>MB20 repo</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
